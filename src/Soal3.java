@@ -1,4 +1,4 @@
-//12S25056-AraunaManurung
+//12S25056-AraunaManurun
 //12S25055-MarissaSilalahi
 
 import java.util.*;
